@@ -1,8 +1,7 @@
 ## 📌 Project Overview
-
- 1) Developed a machine learning model to predict the credit risk of loan applicants based on features like Gender, income, employment history, delinquency 
+1) Developed a machine learning model to predict the credit risk of loan applicants based on features like Gender, income, employment history, delinquency 
  history, and more.
- 2) Engineered features from customer data to evaluate risk factors, including Credit_Limit, education level, and customer satisfaction scores.
+2) Engineered features from customer data to evaluate risk factors, including Credit_Limit, education level, and customer satisfaction scores.
 
 ## How will this project help?
    This project assists financial institutions in evaluating loan applicants more accurately, reducing default risks and enhancing credit approval decisions.
