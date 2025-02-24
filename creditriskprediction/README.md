@@ -63,10 +63,11 @@ Model is deployed in the local server using pickle file and flask
 Used ROC curves, confusion matrices, and classification reports
 
 Metrics: Accuracy, Precision, Recall, F1-Score, AUC-ROC
-![Screenshot 2025-02-24 114201](https://github.com/user-attachments/assets/b2db5bb8-06b3-48fc-a59f-60b159f202bd)
-
 
 Applied GridSearchCV for hyperparameter tuning
+
+![Screenshot 2025-02-24 114201](https://github.com/user-attachments/assets/b2db5bb8-06b3-48fc-a59f-60b159f202bd)
+
 ## Model Prediction
 The final model predicts the likelihood of default for new applicants
 Provides a High Credit Risk or Low Credit Risk to help lenders make informed decisions
