@@ -1,21 +1,27 @@
 ### Project Overview
-
--Developed a machine learning model to predict the credit risk of loan applicants based on features like Gender, income, employment history, delinquency history, and more.
--Engineered features from customer data to evaluate risk factors, including Credit_Limit, education level, and customer satisfaction scores.
+1) Developed a machine learning model to predict the credit risk of loan applicants based on features like Gender, income, employment history, delinquency history, and more.
+2) Engineered features from customer data to evaluate risk factors, including Credit_Limit, education level, and customer satisfaction scores.
 
 ### How will this project help?
-This project assists financial institutions in evaluating loan applicants more accurately, reducing default risks and enhancing credit approval decisions.
-Resources Used
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, xgboost, imbalanced-learn
+   This project assists financial institutions in evaluating loan applicants more accurately, reducing default risks and enhancing credit approval decisions.
+### Resources Used
+Packages: pandas, numpy, sklearn, matplotlib, seaborn, xgboost, imbalanced-learn etc.
+
 Dataset: credit_card_data.csv
-Exploratory Data Analysis (EDA) and Data Cleaning
+
+### Exploratory Data Analysis (EDA) and Data Cleaning
 Removed unwanted columns: 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16'
-Handled missing values:
-Filled NaN values in 'Cust_Satisfaction_Score' based on delinquency history and income
-Updated 'Education_Level' for unknown entries based on job titles
-Categorical Data Cleaning:
-Standardized gender labels ('M' → 'Male', 'F' → 'Female')
-Handled inconsistent job titles and education levels
+#### Handled missing values:
+1)Filled NaN values in 'Cust_Satisfaction_Score' based on delinquency history and income
+
+2)Updated 'Education_Level' for unknown entries based on job titles
+#### Categorical Data Cleaning:
+1)Standardized gender labels ('M' → 'Male', 'F' → 'Female')
+
+2)Handled inconsistent job titles and education levels
+
+3)Removing duplicated rows.
+### EDA:
 Analyzed distributions: Used bar plots, count plots, and correlation matrices to understand feature relationships
 Feature Engineering
 Created new features:
