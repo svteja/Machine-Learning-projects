@@ -4,7 +4,7 @@ This repository contains multiple Machine Learning with different Models. Click 
 ## 📊 Projects
 📌 Project Overview
 
-Credit Risk Prediction
+### 1.Credit Risk Prediction
 
 This repository contains a machine learning project focused on predicting credit risk using various customer and financial data points. The model aims to assess the likelihood of loan default, helping financial institutions make data-driven lending decisions. It includes Jupyter notebooks with end-to-end workflows, from data preprocessing to model evaluation. The project connects to a PostgreSQL database for automatic updates when new data is uploaded.
 
