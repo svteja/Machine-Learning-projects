@@ -20,7 +20,7 @@ Includes the dataset used for training and testing the models.
 📂 Models/ –
 Serialized machine learning models (e.g., .pkl files) for easy deployment.
 
-📂 Screenshots/ –
+📂 Images/ –
 Visuals of key data insights and model performance metrics.
 
 📊 Models & Techniques
