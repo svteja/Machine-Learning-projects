@@ -53,8 +53,8 @@ Evaluates models using metrics like Accuracy, Precision, Recall, F1-Score, and R
 💡 Data Visualizations
 Interactive plots showcasing distribution of risk levels, correlation heatmaps, and ROC curves for model evaluation.
 
-### 1.[Loan Approval prediction](creditriskprediction/) 
+### 2.[Loan Approval prediction](LoanApprovalPrediction/) 
 
 ## 📌 Project Overview
 
-### Credit Risk Prediction
+### Loan approval prediction
