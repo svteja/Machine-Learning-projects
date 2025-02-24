@@ -23,6 +23,7 @@ Serialized machine learning models (e.g., .pkl files) for easy deployment.
 Visuals of key data insights and model performance metrics.
 
 📊 Models & Techniques
+
 Logistic Regression –
 A baseline model to classify credit risk (low/high).
 
