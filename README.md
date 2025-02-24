@@ -1,16 +1,6 @@
 This  contains multiple Machine Learning with different Models. Click on a project title to explore its files.
 ![image](https://github.com/user-attachments/assets/c82e0ebe-1375-4260-9b5a-1f3ed4592c64)
 
-
-## 📊 Projects
-### 1.[American Express credit card Risk prediction](creditriskprediction/) 
-
-## 📌 Project Overview
-
-### Credit Risk Prediction
-
-This  contains a machine learning project focused on predicting credit risk using various customer and financial data points. The model aims to assess the likelihood of Credit default, helping financial institutions make data-driven lending decisions. It includes Jupyter notebooks with end-to-end workflows, from data preprocessing to model evaluation. The project is deployed in the local system.
-
 📂 Notebooks/ –
 Contains Jupyter notebooks for data exploration, model training, and evaluation (new_cred.ipynb).
 
@@ -22,6 +12,17 @@ Serialized machine learning models (e.g., .pkl files) for easy deployment.
 
 📂 Images/ –
 Visuals of key data insights and model performance metrics.
+
+
+## 📊 Projects
+### 1.[American Express credit card Risk prediction](creditriskprediction/) 
+
+## 📌 Project Overview
+
+### Credit Risk Prediction
+
+This  contains a machine learning project focused on predicting credit risk using various customer and financial data points. The model aims to assess the likelihood of Credit default, helping financial institutions make data-driven lending decisions. It includes Jupyter notebooks with end-to-end workflows, from data preprocessing to model evaluation. The project is deployed in the local system.
+
 
 📊 Models & Techniques
 
@@ -52,6 +53,8 @@ Evaluates models using metrics like Accuracy, Precision, Recall, F1-Score, and R
 
 💡 Data Visualizations
 Interactive plots showcasing distribution of risk levels, correlation heatmaps, and ROC curves for model evaluation.
+## 
+
 
 ### 2.[Loan Approval prediction](LoanApprovalPrediction/) 
 
