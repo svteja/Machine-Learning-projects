@@ -1,4 +1,4 @@
-This Repository contains multiple Machine Learning with different Models. Click on a project title to explore its files.
+This Repository contains multiple Machine Learning with different Models. Scroll down to read the projects overview. Click on a project title to explore its files.
 ![image](https://github.com/user-attachments/assets/c82e0ebe-1375-4260-9b5a-1f3ed4592c64)
 
 📂 Notebooks/ –
