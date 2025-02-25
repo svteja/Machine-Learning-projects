@@ -42,7 +42,9 @@ Hyperparameter Tuning –
 Grid Search & Randomized Search for model optimization.
 
 🚀 Key Features
+
 🔍 Credit Risk Analysis
+
 Predicts the probability of default based on customer profiles, transaction history, and credit scores.
 
 📊 Feature Importance
