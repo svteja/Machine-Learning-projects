@@ -47,6 +47,16 @@ Identified income distribution, loan amounts, and approval trends across differe
 🔄 Automated pipeline for encoding, scaling and model training to ensure a structured workflow.
 ![Screenshot 2025-02-25 112205](https://github.com/user-attachments/assets/8c5fa9ea-4c0f-4d21-93f8-09a5665554de)
 
+📊 Models & Techniques
+
+ Logistic Regression – Baseline classification model for loan approval prediction.
+
+ Random Forest Classifier – An ensemble method improving accuracy and handling missing data.
+
+ Desicion Tree – A technique for better decision-making.
+
+ Hyperparameter Tuning – Grid Search & Randomized Search to optimize model performance.
+
 ## Deployment
 🚀 Model deployed on a local Flask server using a pickle file for real-time loan approval predictions.
 ![Screenshot (73)](https://github.com/user-attachments/assets/50b92c2e-709f-4bb9-a1e8-c71c4f25ffcf)
