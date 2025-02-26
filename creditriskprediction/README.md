@@ -52,13 +52,20 @@ Model is deployed in the local server using pickle file and flask
 ![deploy](https://github.com/user-attachments/assets/43081447-969c-4a0b-be02-88dadbaef1cb)
 
 ## Machine Learning Algorithms used
-1)Logistic Regression
+Logistic Regression –
+A baseline model to classify credit risk (low/high).
 
-2)Decision Tree Classifier
+Random Forest Classifier –
+Ensemble method for improved prediction accuracy and handling imbalanced data.
 
-3)Random Forest Classifier
+XGBoost –
+Gradient boosting algorithm for optimized credit risk predictions.
 
-4)XGBoost Classifier
+SMOTE –
+Applied to handle class imbalance by oversampling minority classes.
+
+Hyperparameter Tuning –
+Grid Search & Randomized Search for model optimization.
 ## Evaluation:
 Used ROC curves, confusion matrices, and classification reports
 
