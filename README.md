@@ -18,7 +18,7 @@ Visuals of key data insights and model performance metrics.
 ## 📊 Projects
 ### 1.[American Express credit card Risk prediction](creditriskprediction/) 
 
-## 📌 Project Overview
+## 📌 Project Details
 ### Problem Statement:
 Financial institutions need to assess the risk associated with granting credit to customers. The goal is to predict whether a customer is at risk of default based on historical transaction data and demographic details.
 
@@ -36,68 +36,51 @@ Deployed using Flask, allowing users to input customer details and get a risk pr
 
 This  contains a machine learning project focused on predicting credit risk using various customer and financial data points. The model aims to assess the likelihood of Credit default, helping financial institutions make data-driven lending decisions. It includes Jupyter notebooks with end-to-end workflows, from data preprocessing to model evaluation. The project is deployed in the local system.
 
-## Problem
+## 
 
 ### 2.[Loan Approval prediction](LoanApprovalPrediction/) 
 
-## 📌 Project Overview
+## 📌 Project Details
 
 ### Loan approval prediction
 This project focuses on predicting loan approval status based on customer financial and demographic data. The model helps banks and financial institutions make data-driven decisions by assessing applicants' eligibility for loans. The project includes end-to-end workflows, from data preprocessing to model evaluation, and is deployed as a Flask web application for real-time predictions.
 
-📊 Models & Techniques
+## Problem Statement:
+Banks need an automated system to determine loan approval eligibility based on customer details like income, credit history, and loan amount. The objective is to build a predictive model to classify loan applications as approved or rejected.
 
- Logistic Regression – Baseline classification model for loan approval prediction.
+## 🔹 Solution:
+Used Random Forest Classifier with hyperparameter tuning to optimize model performance.
 
- Random Forest Classifier – An ensemble method improving accuracy and handling missing data.
+Implemented Logistic Regression with feature selection for better interpretability.
 
- Desicion Tree – A technique for better decision-making.
+Handled missing values and outliers in the dataset.
 
- Hyperparameter Tuning – Grid Search & Randomized Search to optimize model performance.
+Evaluated model using Precision, Recall, and F1-Score.
 
-🔍 Loan Eligibility Prediction
+Deployed using Flask, where users can enter loan details to check eligibility.
 
-Determines whether an applicant qualifies for a loan based on income, credit history, and other financial factors.
 
-Provides a clear decision: Loan Approved ✅ or Loan Not Approved ❌
-
-📊 Feature Importance Analysis
-Identifies key factors influencing loan approvals, such as income, loan amount, credit history, and employment status.
-
-📈 Model Performance Metrics
-Evaluates models using Accuracy, Precision, Recall, F1-Score to ensure reliability.
-
-📊 Data Visualizations
-Interactive charts showing approval rates, applicant income distributions, loan amount trends, and credit score impacts.
 ## 
 ### 3.[Credit Scoring & Customer Segmentation](CreditScoringSegmentation/)
-## 📌 Project Overview
+## 📌 Project Details
 
 This project applies K-Means clustering to segment customers based on their credit scores. It helps financial institutions categorize customers into different risk groups for better decision-making, loan approvals, and personalized financial products. The project includes data preprocessing, clustering analysis, and interactive visualizations for insights.
 
-📊 Techniques & Methodology
+### Problem Statement:
+Financial institutions require a credit scoring model to assess customers' creditworthiness and segment them into different risk categories. This helps in personalized loan offerings and risk mitigation.
 
-K-Means Clustering – Used to segment customers into 4 distinct credit score groups.
+### 🔹 Solution:
 
-Feature Selection – Clustering is based on customers' Credit Scores.
+Used K-Means Clustering for customer segmentation based on spending behavior and credit history.
 
-Elbow Method – Helps determine the optimal number of clusters.
+Built a Credit Score column using FICO formula using the other columns.
 
-🔍 Customer Segmentation Based on Credit Score
+Determined the optimal number of clusters using the Elbow Method.
 
-Groups customers into 4 clusters representing different credit worthiness levels (Very Low, Low, Good, Excellent).
+Visualized customer segments using a Scatter Plot with different colors representing different clusters
+1) Excellent
+2) Good
+3) Low
+4) Very Low
 
-Helps banks target high-risk and low-risk customers effectively.
-
-📊 Cluster Analysis & Insights
-
-Identifies patterns in customer credit behavior.
-
-Helps in risk assessment and customized financial offerings.
-
-📈 Data Visualizations
-
-Cluster distribution charts to visualize credit score segmentation.
-
-Interactive scatter plots showing how customers are grouped.
 
