@@ -1,5 +1,6 @@
 This Repository contains multiple Machine Learning with different Models. Scroll down to read the projects overview. Click on a project title to explore its files.
-![image](https://github.com/user-attachments/assets/c82e0ebe-1375-4260-9b5a-1f3ed4592c64)
+![Screenshot 2025-02-26 120121](https://github.com/user-attachments/assets/a1434a0c-8117-4c9e-a699-13a651e456d0)
+
 
 📂 Notebooks/ –
 Contains Jupyter notebooks for data exploration, model training, and evaluation (new_cred.ipynb).
