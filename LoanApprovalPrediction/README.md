@@ -1,4 +1,4 @@
-## 📌 Project Overview
+## 📌 Project Implemanation
 Developed a machine learning model to predict loan approval for applicants based on key factors such as gender, income, employment history, dependents, credit history, and property area.
 Engineered features from applicant data to evaluate loan eligibility, ensuring more accurate lending decisions.
 
