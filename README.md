@@ -15,7 +15,7 @@ Serialized machine learning models (e.g., .pkl files) for easy deployment.
 Visuals of key data insights and model performance metrics.
 
 ## 📊 Projects
-### 1.[American Express credit card Risk prediction](creditriskprediction/) 
+### 1️⃣ [American Express credit card Risk prediction](creditriskprediction/)
 ### Credit Risk Prediction
 
 This  contains a machine learning project focused on predicting credit risk using various customer and financial data points. The model aims to assess the likelihood of Credit default, helping financial institutions make data-driven lending decisions. It includes Jupyter notebooks with end-to-end workflows, from data preprocessing to model evaluation. The project is deployed in the local system.
@@ -37,7 +37,7 @@ Deployed using Flask, allowing users to input customer details and get a risk pr
 
 ## 
 
-### 2.[Loan Approval prediction](LoanApprovalPrediction/) 
+### 2️⃣ [Loan Approval prediction](LoanApprovalPrediction/) 
 
 ## 📌 Project Details
 
@@ -60,7 +60,7 @@ Deployed using Flask, where users can enter loan details to check eligibility.
 
 
 ## 
-### 3.[Credit Scoring & Customer Segmentation](CreditScoringSegmentation/)
+### 3 [Credit Scoring & Customer Segmentation](CreditScoringSegmentation/)
 ## 📌 Project Details
 
 This project applies K-Means clustering to segment customers based on their credit scores. It helps financial institutions categorize customers into different risk groups for better decision-making, loan approvals, and personalized financial products. The project includes data preprocessing, clustering analysis, and interactive visualizations for insights.
