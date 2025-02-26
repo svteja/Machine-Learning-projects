@@ -75,9 +75,6 @@ This project focuses on predicting loan approval status based on customer financ
 
  Hyperparameter Tuning – Grid Search & Randomized Search to optimize model performance.
 
-
-🚀 Key Features
-
 🔍 Loan Eligibility Prediction
 
 Determines whether an applicant qualifies for a loan based on income, credit history, and other financial factors.
@@ -92,4 +89,35 @@ Evaluates models using Accuracy, Precision, Recall, F1-Score to ensure reliabili
 
 📊 Data Visualizations
 Interactive charts showing approval rates, applicant income distributions, loan amount trends, and credit score impacts.
+## 
+### 3.[Credit Scoring & Customer Segmentation](CreditScoringSegmentation/)
+## 📌 Project Overview
+
+This project applies K-Means clustering to segment customers based on their credit scores. It helps financial institutions categorize customers into different risk groups for better decision-making, loan approvals, and personalized financial products. The project includes data preprocessing, clustering analysis, and interactive visualizations for insights.
+
+📊 Techniques & Methodology
+
+K-Means Clustering – Used to segment customers into 4 distinct credit score groups.
+
+Feature Selection – Clustering is based on customers' Credit Scores.
+
+Elbow Method – Helps determine the optimal number of clusters.
+
+🔍 Customer Segmentation Based on Credit Score
+
+Groups customers into 4 clusters representing different credit worthiness levels (Very Low, Low, Good, Excellent).
+
+Helps banks target high-risk and low-risk customers effectively.
+
+📊 Cluster Analysis & Insights
+
+Identifies patterns in customer credit behavior.
+
+Helps in risk assessment and customized financial offerings.
+
+📈 Data Visualizations
+
+Cluster distribution charts to visualize credit score segmentation.
+
+Interactive scatter plots showing how customers are grouped.
 
